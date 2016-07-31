@@ -107,11 +107,11 @@
             <itemStack oreDictionary="dustGlowstone" number="4" />
         </input>
         <output>
-            <itemStack modID="extrautils2" itemName="SunCrystal" exp="5.0" />
+            <itemStack modID="extrautils2" itemName="SunCrystal" itemMeta="250" exp="5.0" />
         </output>
     </recipe>
 
-    <recipe name="Sun Crystal" energyCost="4000">
+    <recipe name="Glowing Glass" energyCost="4000">
         <input>
             <itemStack modID="extrautils2" itemName="DecorativeGlass" itemMeta="0" />
             <itemStack oreDictionary="dustGlowstone" number="2" />
